@@ -7,6 +7,6 @@
 
 ## My Schedule
 
-- ###Monday
+- Monday
   -   16:00 [COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
   -   18:00 [COMP1234](https://learn.georgebrown.ca/d2l/home/342901)
